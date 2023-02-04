@@ -1,12 +1,58 @@
-.container {
-    position: relative;
-  }  
+input[type=text], select, textarea { 
+    width: 250px; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical; 
+  } 
+   
+  input[type=submit] { 
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 12px 20px; 
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+  } 
 
-.center {
+  input[type=password] {
+    width: 250px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+   
+  input[type=submit]:hover { 
+    background-color: #45a049; 
+  } 
+  
+
+  .container { 
+    position: relative
+  }
+  
+  .centerEmail{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    left: 560px;
+    margin-top: 5%;
+    font-size: 18px;
+  }
+
+  .center {
     position: absolute;
     top: 50%;
     width: 100%;
     text-align: center;
+    margin-top: 10%;
     font-size: 18px;
   }
   
