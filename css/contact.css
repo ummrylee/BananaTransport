@@ -116,6 +116,10 @@ text-indent: 50px
     border-radius: 25px
 }
 
+.info a:hover {
+    background-color: #ffffff;
+    color: black;
+}
 input[type=submit] {
     width: 23em;  height: 15em;
 }
