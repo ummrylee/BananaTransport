@@ -1,0 +1,121 @@
+body{
+    background-color: lightblue;
+  }
+
+
+.title{
+    text-align: center;
+    top:100px;
+    font-weight: bold;
+    background-color: #82AAE3;
+    overflow: hidden;
+    font-size: x-large
+}
+
+.aboutus{
+    position:absolute;
+    left:260px;
+    top:150px;
+
+}
+
+.first-header{
+    position:absolute;
+    left:115px;
+    top:350px;
+}
+
+.second-header{
+    position:absolute; 
+    left:975px; 
+    top:500px;
+}
+
+
+.third-header{
+    position:absolute;
+    left:220px;
+    top:750px;
+}
+
+.fourth-header{
+    position:absolute;
+    left:220px;
+    top:950px
+}
+
+.ab{
+    position:absolute;
+    left:50px;
+    top:200px;
+    width:40%;
+    text-indent: 50px
+}
+.p1{
+position:absolute;
+left:50px;
+top:400px;
+width: 40%;
+text-indent: 50px
+}
+
+.p2{
+    position:absolute;
+    left:800px;
+    top:550px;
+    width: 40%;
+    text-indent: 50px
+    }
+
+.p3{
+    position:absolute;
+    left:50px;
+    top: 800px;
+    width: 40%;
+    text-indent: 50px
+    }
+
+.p4{
+    position:absolute;
+    left:150px;
+    top: 1000px;
+    width: 60%;
+
+    }
+
+.hr{
+    border: 1px solid rgb(0, 81, 128);
+    width: 1407px;
+    
+    position: absolute;
+}
+
+.Us{
+    position:absolute; 
+    width: 500px;
+    left: 800px;
+    top:200px;
+    border-radius: 25px
+    
+
+}
+.Traffic1{
+    position: absolute;
+    width: 275px;
+    top:525px;
+    left: 180px;
+    border-radius: 25px
+}
+
+.Traffic2{
+    position: absolute;
+    width:275px;
+    height:400px;
+    top:650px;
+    left:960px;
+    border-radius: 25px
+}
+
+input[type=submit] {
+    width: 23em;  height: 15em;
+}

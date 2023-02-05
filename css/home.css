@@ -1,0 +1,47 @@
+.header{
+    background-color: #82AAE3;
+    overflow: hidden;
+}
+
+.circular--square { border-radius: 50%; 
+    height: 10%;
+    width: 5%;
+    position: absolute;
+    left: 1425px;
+    top: 10px;
+}
+
+input[type=submit] {
+    width: 23em;  height: 15em;
+}
+
+.nameStyle {
+    position: absolute;
+    left: 1300px;
+    top: 12px;
+}
+
+.messagesStyle {
+    position: absolute;
+    left: 1265px;
+    top: 32px;
+    width: 25px;
+    height: 25px;
+}
+
+.info {
+    position: absolute;
+    font-size: 25px;
+    width: 300px;
+}
+
+.info form {
+    position: absolute;
+    text-align: center;
+    width: 35px;
+}
+
+.info a:hover {
+    background-color: #ffffff;
+    color: black;
+}
