@@ -1,5 +1,6 @@
 body{
-    background-color: lightblue;
+    background: linear-gradient(180deg, hsl(215, 63%, 70%), transparent); 
+    height: 134vh;
   }
 
 
@@ -7,7 +8,7 @@ body{
     text-align: center;
     top:100px;
     font-weight: bold;
-    background-color: #82AAE3;
+    background-color: hsl(215, 63%, 70%);
     overflow: hidden;
     font-size: x-large
 }
@@ -111,9 +112,16 @@ text-indent: 50px
     position: absolute;
     width:275px;
     height:400px;
-    top:650px;
+    top:640px;
     left:960px;
     border-radius: 25px
+}
+
+.Banana{
+    position: absolute;
+    width:150px;
+    top: 0px;
+    left:1100px
 }
 
 .info a:hover {
@@ -121,5 +129,11 @@ text-indent: 50px
     color: black;
 }
 input[type=submit] {
-    width: 23em;  height: 15em;
+    position: aboslute;
+    width: 23em;  height: 2em;
 }
+
+
+
+
+  
