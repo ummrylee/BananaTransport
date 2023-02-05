@@ -1,0 +1,90 @@
+.header{
+    background-color: #82AAE3;
+    overflow: hidden;
+}
+
+.circular--square { 
+    border-radius: 50%; 
+    height: 10%;
+    width: 5%;
+    position: absolute;
+    left: 89rem;
+    top: 0.6rem;
+}
+
+.nameStyle {
+    position: absolute;
+    left: 79rem;
+    top: 1rem;
+}
+
+.messagesStyle {
+    position: absolute;
+    left: 77rem;
+    top: 2.3rem;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.ask-rider{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.search-rider{
+    border-radius: 1.5rem;
+    border-style: solid;
+    border-color: black;
+    padding: 6rem; 
+    width: 43rem;
+    height: 30rem;
+    position: absolute;
+    margin-left: 18rem;
+    margin-top: 1.8rem;
+    text-align: center;
+}
+
+.thisHR{
+    position: absolute;
+    width: 100%;
+    margin-left: -6rem;
+    margin-top: 15rem;
+}
+
+.rider-1{
+    position: absolute;
+    margin-top: -2.5rem;
+    margin-left: 2rem;
+}
+
+.request{
+    background-color: green;
+    border-radius: 1rem;
+    font-weight: bold;
+}
+
+.rider-2{
+    position: absolute;
+    margin-top: 17rem;
+    margin-left: 2rem;
+}
+
+.college-1{
+    position: absolute;
+    height: 90%;
+    width: 90%;
+    margin-left: 16rem;
+    border-radius: 1.5rem;
+    margin-top: -1rem;
+}
+
+.college-2{
+    position: absolute;
+    height: 95%;
+    width: 95%;
+    margin-left: 16rem;
+    margin-top: 0.5rem;
+    border-radius: 1.5rem;
+}
