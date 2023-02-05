@@ -1,7 +1,12 @@
+
 .header{
     background-color: #82AAE3;
     overflow: hidden;
 }
+body{
+    background: linear-gradient(180deg, hsl(53, 81%, 75%), transparent); 
+    height: 134vh;
+  }
 
 .circular--square { 
     border-radius: 50%; 
@@ -9,19 +14,37 @@
     width: 5%;
     position: absolute;
     left: 89rem;
-    top: 1rem;
+    top: 0.6rem;
 }
 
 .nameStyle {
     position: absolute;
     left: 79rem;
-    top: 2rem;
+    top: 1rem;
 }
 
 .messagesStyle {
     position: absolute;
-    left: 76rem;
-    top: 2rem;
+    left: 77rem;
+    top: 2.3rem;
     width: 1.5rem;
     height: 1.5rem;
+}
+
+.search-rider{
+    border-radius: 1.5rem;
+    border-style: solid;
+    border-color: black;
+    width: 43rem;
+    height: 40rem;
+    position: relative;
+    margin-left: 18rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.rider1{
+    position: relative;
+    margin-top: -2.5rem;
+    margin-left: 2rem;
 }

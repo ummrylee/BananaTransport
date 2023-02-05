@@ -1,6 +1,6 @@
 body{
     background: linear-gradient(180deg, hsl(215, 63%, 70%), transparent); 
-    height: 134vh;
+    height: 148vh;
   }
 
 
@@ -78,8 +78,8 @@ text-indent: 2rem
 
 .p4{
     position:absolute;
-    left: 9rem;
-    top: 75rem;
+    left: 5rem;
+    top: 74rem;
     width: 10%;
 
     }

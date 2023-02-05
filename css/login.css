@@ -1,5 +1,10 @@
+.header{
+  background-color: #82AAE3;
+  overflow: hidden;
+}
+
 body{
-  background: linear-gradient(180deg, hsl(215, 63%, 70%), transparent); 
+  background: linear-gradient(180deg, hsl(55, 47%, 66%), transparent); 
   height: 134vh;
 }
 
