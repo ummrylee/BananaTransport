@@ -1,3 +1,8 @@
+body{
+    background: linear-gradient(180deg, hsl(53, 81%, 75%), transparent); 
+    height: 134vh;
+  }
+
 .header{
     background-color: #82AAE3;
     overflow: hidden;
@@ -10,11 +15,6 @@
     position: absolute;
     left: 89rem;
     top: 0.6rem;
-}
-
-
-input[type=submit] {
-    width: 20rem;  height: 12rem;
 }
 
 .nameStyle {
@@ -31,20 +31,6 @@ input[type=submit] {
     height: 1.5rem;
 }
 
-
-.info {
-    position: absolute;
-    font-size: 25px;
-    width: 300px;
-}
-
-.info form {
-    position: absolute;
-    text-align: center;
-    width: 35px;
-}
-
-.info a:hover {
-    background-color: #ffffff;
-    color: black;
+input[type=submit] {
+    width: 5rem;  height: 3rem;
 }

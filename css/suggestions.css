@@ -1,0 +1,27 @@
+.header{
+    background-color: #82AAE3;
+    overflow: hidden;
+}
+
+.circular--square { 
+    border-radius: 50%; 
+    height: 10%;
+    width: 5%;
+    position: absolute;
+    left: 89rem;
+    top: 1rem;
+}
+
+.nameStyle {
+    position: absolute;
+    left: 79rem;
+    top: 2rem;
+}
+
+.messagesStyle {
+    position: absolute;
+    left: 76rem;
+    top: 2rem;
+    width: 1.5rem;
+    height: 1.5rem;
+}
