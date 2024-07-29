@@ -52,9 +52,9 @@ h1{
 
 .share-rider-text{
     position: absolute;
-    right: 14rem;
+    right: 16rem;
     margin: 0 auto;
-    margin-top: -2rem;
+    margin-top: -2.5rem;
 }
 
 .my-contact{
@@ -77,7 +77,7 @@ h1{
 }
 
 #share{
-    height: 31.5vh;
+    height: 32vh;
     width: 25%;
     margin-left: 3rem;
     display: inline;
